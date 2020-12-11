@@ -2,7 +2,6 @@
 node_modules/
 
 # build related files
-dist/
 !lib/types/video.js/dist
 build/
 
